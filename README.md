@@ -1,6 +1,6 @@
 # 🧑‍💻 Luis Mendes
 
-**'Analista de Dados'**
+**Analista de Dados**
 
 Tenho 35 anos, sou natural de São Paulo - SP e formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uninove.
 Sou apaixonado por tecnologia e atualmente estou em transição de carreira para a área de Dados.
